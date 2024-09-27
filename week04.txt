@@ -3,3 +3,4 @@
   fetch, pull
 - Go 환경 셋업
   환경 설정
+go run main go

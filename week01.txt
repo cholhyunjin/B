@@ -2,3 +2,7 @@
 - 오리엔테이션
 - 교재/교수 소개
 - 주차별 수업 계획
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/cholhyunjin/BB.git
+git push -u origin main
